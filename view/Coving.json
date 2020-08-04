@@ -1,0 +1,1 @@
+{"type":"View","props":{"zOrder":50,"width":1080,"height":1920},"compId":2,"child":[{"type":"Image","props":{"width":1080,"var":"cover","skin":"userInfo/alertBg.png","sizeGrid":"1,1,1,1,1","name":"cover","height":1920},"compId":3},{"type":"Script","props":{"runtime":"element/CovingControl.ts"},"compId":5}],"loadList":["userInfo/alertBg.png"],"loadList3D":[]}

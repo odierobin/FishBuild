@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"y":118,"x":156,"width":1080,"pivotY":118,"pivotX":156,"height":1920},"compId":2,"child":[{"type":"Script","props":{"dropPrefab":"@Prefab:prefab/fishDropItem.prefab","FishPrefab":"@Prefab:prefab/F009.prefab","runtime":"test/testFishItemSceneControl.ts"},"compId":84}],"loadList":["prefab/fishDropItem.prefab","prefab/F009.prefab"],"loadList3D":[]}

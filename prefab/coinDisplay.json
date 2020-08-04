@@ -1,0 +1,1 @@
+{"type":"FontClip","props":{"zOrder":10,"y":0,"x":0,"width":400,"value":"640","spaceX":0,"skin":"clipFonts/coin_font_01.png","sheet":"0123456789+x万","runtime":"element/CoinDisplayControl.ts","presetID":1,"pivotY":40,"pivotX":200,"isPresetRoot":true,"height":80,"align":"center"},"compId":11,"loadList":["clipFonts/coin_font_01.png"],"loadList3D":[]}

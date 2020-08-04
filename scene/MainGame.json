@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"zOrder":1,"runtime":"element/GameScene.ts"},"compId":2,"child":[{"type":"Sprite","props":{},"compId":15,"child":[{"type":"Script","props":{"runtime":"element/TouchControl.ts"},"compId":16}]}],"loadList":["gun/Gun_01_02.png","gun/FY_cannon.png","gun/FY_body.png"],"loadList3D":[]}

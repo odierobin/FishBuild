@@ -1,0 +1,1 @@
+{"type":"Animation","props":{"zOrder":10,"y":0,"x":0,"width":88,"source":"animation/flyCoin.atlas","presetID":1,"pivotY":44,"pivotX":44,"isPresetRoot":true,"height":88,"autoPlay":true},"compId":3,"child":[{"type":"Script","props":{"presetID":2,"isAnimation":true,"flyItemType":"DropCoin","runtime":"element/FlyControl.ts"},"compId":5}],"loadList":[],"loadList3D":[]}

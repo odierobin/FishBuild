@@ -1,0 +1,1 @@
+{"type":"View","props":{"zOrder":5,"width":1080,"top":150,"runtime":"element/LogoZone.ts","name":"LogoArea","height":800},"compId":2,"child":[{"type":"Sprite","props":{"zOrder":10,"y":400,"x":540,"width":941,"var":"logoImage","pivotY":380,"pivotX":470.5,"name":"logoImage","height":759},"compId":3}],"loadList":[],"loadList3D":[]}
